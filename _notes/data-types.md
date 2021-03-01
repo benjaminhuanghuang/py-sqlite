@@ -1,0 +1,14 @@
+
+
+
+
+NULL
+
+INTEGERE
+
+REAL
+
+TEXT
+
+BLOB
+
